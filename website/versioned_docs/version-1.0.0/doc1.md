@@ -1,10 +1,11 @@
 ---
-id: doc1
+id: version-1.0.0-doc1
 title: Latin-ish
 sidebar_label: Example Page
+original_id: doc1
 ---
 
-This is the lastest version fo the docs
+Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
 ## Lorem
 
